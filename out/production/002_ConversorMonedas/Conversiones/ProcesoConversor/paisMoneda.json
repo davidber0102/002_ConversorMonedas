@@ -1,0 +1,1129 @@
+{"Pais":[
+ {
+  "Currency Code": "AED",
+  "Currency Name": "UAE Dirham",
+  "Country": "United Arab Emirates",
+  "Nombre de la moneda": "Dírham de los Emiratos Árabes Unidos",
+  "País": "Emiratos Árabes Unidos"
+ },
+ {
+  "Currency Code": "AFN",
+  "Currency Name": "Afghan Afghani",
+  "Country": "Afghanistan",
+  "Nombre de la moneda": "afgano afgano",
+  "País": "Afganistán"
+ },
+ {
+  "Currency Code": "ALL",
+  "Currency Name": "Albanian Lek",
+  "Country": "Albania",
+  "Nombre de la moneda": "Lek albanés",
+  "País": "Albania"
+ },
+ {
+  "Currency Code": "AMD",
+  "Currency Name": "Armenian Dram",
+  "Country": "Armenia",
+  "Nombre de la moneda": "Dram armenio",
+  "País": "Armenia"
+ },
+ {
+  "Currency Code": "ANG",
+  "Currency Name": "Netherlands Antillian Guilder",
+  "Country": "Netherlands Antilles",
+  "Nombre de la moneda": "Florín antillano holandés",
+  "País": "Antillas Holandesas"
+ },
+ {
+  "Currency Code": "AOA",
+  "Currency Name": "Angolan Kwanza",
+  "Country": "Angola",
+  "Nombre de la moneda": "Kwanza angoleño",
+  "País": "Angola"
+ },
+ {
+  "Currency Code": "ARS",
+  "Currency Name": "Argentine Peso",
+  "Country": "Argentina",
+  "Nombre de la moneda": "peso argentino",
+  "País": "Argentina"
+ },
+ {
+  "Currency Code": "AUD",
+  "Currency Name": "Australian Dollar",
+  "Country": "Australia",
+  "Nombre de la moneda": "Dólar australiano",
+  "País": "Australia"
+ },
+ {
+  "Currency Code": "AWG",
+  "Currency Name": "Aruban Florin",
+  "Country": "Aruba",
+  "Nombre de la moneda": "Florín de Aruba",
+  "País": "Aruba"
+ },
+ {
+  "Currency Code": "AZN",
+  "Currency Name": "Azerbaijani Manat",
+  "Country": "Azerbaijan",
+  "Nombre de la moneda": "Manat azerbaiyano",
+  "País": "Azerbaiyán"
+ },
+ {
+  "Currency Code": "BAM",
+  "Currency Name": "Bosnia and Herzegovina Mark",
+  "Country": "Bosnia and Herzegovina",
+  "Nombre de la moneda": "Marca de Bosnia y Herzegovina",
+  "País": "Bosnia y Herzegovina"
+ },
+ {
+  "Currency Code": "BBD",
+  "Currency Name": "Barbados Dollar",
+  "Country": "Barbados",
+  "Nombre de la moneda": "Dólar de Barbados",
+  "País": "Barbados"
+ },
+ {
+  "Currency Code": "BDT",
+  "Currency Name": "Bangladeshi Taka",
+  "Country": "Bangladesh",
+  "Nombre de la moneda": "taka bangladesí",
+  "País": "Bangladesh"
+ },
+ {
+  "Currency Code": "BGN",
+  "Currency Name": "Bulgarian Lev",
+  "Country": "Bulgaria",
+  "Nombre de la moneda": "Lev búlgaro",
+  "País": "Bulgaria"
+ },
+ {
+  "Currency Code": "BHD",
+  "Currency Name": "Bahraini Dinar",
+  "Country": "Bahrain",
+  "Nombre de la moneda": "dinar bahreiní",
+  "País": "Bahréin"
+ },
+ {
+  "Currency Code": "BIF",
+  "Currency Name": "Burundian Franc",
+  "Country": "Burundi",
+  "Nombre de la moneda": "Franco burundés",
+  "País": "Burundi"
+ },
+ {
+  "Currency Code": "BMD",
+  "Currency Name": "Bermudian Dollar",
+  "Country": "Bermuda",
+  "Nombre de la moneda": "Dólar de Bermudas",
+  "País": "islas Bermudas"
+ },
+ {
+  "Currency Code": "BND",
+  "Currency Name": "Brunei Dollar",
+  "Country": "Brunei",
+  "Nombre de la moneda": "Dólar de Brunéi",
+  "País": "Brunéi"
+ },
+ {
+  "Currency Code": "BOB",
+  "Currency Name": "Bolivian Boliviano",
+  "Country": "Bolivia",
+  "Nombre de la moneda": "boliviano boliviano",
+  "País": "bolivia"
+ },
+ {
+  "Currency Code": "BRL",
+  "Currency Name": "Brazilian Real",
+  "Country": "Brazil",
+  "Nombre de la moneda": "Real brasileño",
+  "País": "Brasil"
+ },
+ {
+  "Currency Code": "BSD",
+  "Currency Name": "Bahamian Dollar",
+  "Country": "Bahamas",
+  "Nombre de la moneda": "dólar bahameño",
+  "País": "bahamas"
+ },
+ {
+  "Currency Code": "BTN",
+  "Currency Name": "Bhutanese Ngultrum",
+  "Country": "Bhutan",
+  "Nombre de la moneda": "Ngultrum butanés",
+  "País": "Bután"
+ },
+ {
+  "Currency Code": "BWP",
+  "Currency Name": "Botswana Pula",
+  "Country": "Botswana",
+  "Nombre de la moneda": "Pula de Botsuana",
+  "País": "Botsuana"
+ },
+ {
+  "Currency Code": "BYN",
+  "Currency Name": "Belarusian Ruble",
+  "Country": "Belarus",
+  "Nombre de la moneda": "Rublo bielorruso",
+  "País": "Bielorrusia"
+ },
+ {
+  "Currency Code": "BZD",
+  "Currency Name": "Belize Dollar",
+  "Country": "Belize",
+  "Nombre de la moneda": "Dólar de Belice",
+  "País": "Belice"
+ },
+ {
+  "Currency Code": "CAD",
+  "Currency Name": "Canadian Dollar",
+  "Country": "Canada",
+  "Nombre de la moneda": "Dolar canadiense",
+  "País": "Canadá"
+ },
+ {
+  "Currency Code": "CDF",
+  "Currency Name": "Congolese Franc",
+  "Country": "Democratic Republic of the Congo",
+  "Nombre de la moneda": "franco congoleño",
+  "País": "República Democrática del Congo"
+ },
+ {
+  "Currency Code": "CHF",
+  "Currency Name": "Swiss Franc",
+  "Country": "Switzerland",
+  "Nombre de la moneda": "Franco suizo",
+  "País": "Suiza"
+ },
+ {
+  "Currency Code": "CLP",
+  "Currency Name": "Chilean Peso",
+  "Country": "Chile",
+  "Nombre de la moneda": "peso chileno",
+  "País": "Chile"
+ },
+ {
+  "Currency Code": "CNY",
+  "Currency Name": "Chinese Renminbi",
+  "Country": "China",
+  "Nombre de la moneda": "Renminbi chino",
+  "País": "Porcelana"
+ },
+ {
+  "Currency Code": "COP",
+  "Currency Name": "Colombian Peso",
+  "Country": "Colombia",
+  "Nombre de la moneda": "peso colombiano",
+  "País": "Colombia"
+ },
+ {
+  "Currency Code": "CRC",
+  "Currency Name": "Costa Rican Colon",
+  "Country": "Costa Rica",
+  "Nombre de la moneda": "Colón costarricense",
+  "País": "Costa Rica"
+ },
+ {
+  "Currency Code": "CUP",
+  "Currency Name": "Cuban Peso",
+  "Country": "Cuba",
+  "Nombre de la moneda": "peso cubano",
+  "País": "Cuba"
+ },
+ {
+  "Currency Code": "CVE",
+  "Currency Name": "Cape Verdean Escudo",
+  "Country": "Cape Verde",
+  "Nombre de la moneda": "Escudo caboverdiano",
+  "País": "Cabo Verde"
+ },
+ {
+  "Currency Code": "CZK",
+  "Currency Name": "Czech Koruna",
+  "Country": "Czech Republic",
+  "Nombre de la moneda": "corona checa",
+  "País": "República Checa"
+ },
+ {
+  "Currency Code": "DJF",
+  "Currency Name": "Djiboutian Franc",
+  "Country": "Djibouti",
+  "Nombre de la moneda": "Franco de Yibuti",
+  "País": "Yibuti"
+ },
+ {
+  "Currency Code": "DKK",
+  "Currency Name": "Danish Krone",
+  "Country": "Denmark",
+  "Nombre de la moneda": "corona danesa",
+  "País": "Dinamarca"
+ },
+ {
+  "Currency Code": "DOP",
+  "Currency Name": "Dominican Peso",
+  "Country": "Dominican Republic",
+  "Nombre de la moneda": "peso dominicano",
+  "País": "República Dominicana"
+ },
+ {
+  "Currency Code": "DZD",
+  "Currency Name": "Algerian Dinar",
+  "Country": "Algeria",
+  "Nombre de la moneda": "dinar argelino",
+  "País": "Argelia"
+ },
+ {
+  "Currency Code": "EGP",
+  "Currency Name": "Egyptian Pound",
+  "Country": "Egypt",
+  "Nombre de la moneda": "Libra egipcia",
+  "País": "Egipto"
+ },
+ {
+  "Currency Code": "ERN",
+  "Currency Name": "Eritrean Nakfa",
+  "Country": "Eritrea",
+  "Nombre de la moneda": "Nakfa eritrea",
+  "País": "Eritrea"
+ },
+ {
+  "Currency Code": "ETB",
+  "Currency Name": "Ethiopian Birr",
+  "Country": "Ethiopia",
+  "Nombre de la moneda": "Birr etíope",
+  "País": "Etiopía"
+ },
+ {
+  "Currency Code": "EUR",
+  "Currency Name": "Euro",
+  "Country": "European Union",
+  "Nombre de la moneda": "Euro",
+  "País": "unión Europea"
+ },
+ {
+  "Currency Code": "FJD",
+  "Currency Name": "Fiji Dollar",
+  "Country": "Fiji",
+  "Nombre de la moneda": "Dólar fiyiano",
+  "País": "Fiyi"
+ },
+ {
+  "Currency Code": "FKP",
+  "Currency Name": "Falkland Islands Pound",
+  "Country": "Falkland Islands",
+  "Nombre de la moneda": "Libra de las Islas Malvinas",
+  "País": "Islas Malvinas"
+ },
+ {
+  "Currency Code": "FOK",
+  "Currency Name": "Faroese Króna",
+  "Country": "Faroe Islands",
+  "Nombre de la moneda": "Corona feroesa",
+  "País": "Islas Faroe"
+ },
+ {
+  "Currency Code": "GBP",
+  "Currency Name": "Pound Sterling",
+  "Country": "United Kingdom",
+  "Nombre de la moneda": "Libra esterlina",
+  "País": "Reino Unido"
+ },
+ {
+  "Currency Code": "GEL",
+  "Currency Name": "Georgian Lari",
+  "Country": "Georgia",
+  "Nombre de la moneda": "Lari georgiano",
+  "País": "Georgia"
+ },
+ {
+  "Currency Code": "GGP",
+  "Currency Name": "Guernsey Pound",
+  "Country": "Guernsey",
+  "Nombre de la moneda": "Libra de Guernsey",
+  "País": "Guernesey"
+ },
+ {
+  "Currency Code": "GHS",
+  "Currency Name": "Ghanaian Cedi",
+  "Country": "Ghana",
+  "Nombre de la moneda": "cedi ghanés",
+  "País": "Ghana"
+ },
+ {
+  "Currency Code": "GIP",
+  "Currency Name": "Gibraltar Pound",
+  "Country": "Gibraltar",
+  "Nombre de la moneda": "Libra gibraltareña",
+  "País": "Gibraltar"
+ },
+ {
+  "Currency Code": "GMD",
+  "Currency Name": "Gambian Dalasi",
+  "Country": "The Gambia",
+  "Nombre de la moneda": "Dalasi gambiano",
+  "País": "Gambia"
+ },
+ {
+  "Currency Code": "GNF",
+  "Currency Name": "Guinean Franc",
+  "Country": "Guinea",
+  "Nombre de la moneda": "franco guineano",
+  "País": "Guinea"
+ },
+ {
+  "Currency Code": "GTQ",
+  "Currency Name": "Guatemalan Quetzal",
+  "Country": "Guatemala",
+  "Nombre de la moneda": "Quetzal guatemalteco",
+  "País": "Guatemala"
+ },
+ {
+  "Currency Code": "GYD",
+  "Currency Name": "Guyanese Dollar",
+  "Country": "Guyana",
+  "Nombre de la moneda": "dólar guyanés",
+  "País": "Guayana"
+ },
+ {
+  "Currency Code": "HKD",
+  "Currency Name": "Hong Kong Dollar",
+  "Country": "Hong Kong",
+  "Nombre de la moneda": "Dolar de Hong Kong",
+  "País": "Hong Kong"
+ },
+ {
+  "Currency Code": "HNL",
+  "Currency Name": "Honduran Lempira",
+  "Country": "Honduras",
+  "Nombre de la moneda": "Lempira hondureña",
+  "País": "Honduras"
+ },
+ {
+  "Currency Code": "HRK",
+  "Currency Name": "Croatian Kuna",
+  "Country": "Croatia",
+  "Nombre de la moneda": "kuna croata",
+  "País": "Croacia"
+ },
+ {
+  "Currency Code": "HTG",
+  "Currency Name": "Haitian Gourde",
+  "Country": "Haiti",
+  "Nombre de la moneda": "gourde haitiano",
+  "País": "Haití"
+ },
+ {
+  "Currency Code": "HUF",
+  "Currency Name": "Hungarian Forint",
+  "Country": "Hungary",
+  "Nombre de la moneda": "florín húngaro",
+  "País": "Hungría"
+ },
+ {
+  "Currency Code": "IDR",
+  "Currency Name": "Indonesian Rupiah",
+  "Country": "Indonesia",
+  "Nombre de la moneda": "rupia indonesia",
+  "País": "Indonesia"
+ },
+ {
+  "Currency Code": "ILS",
+  "Currency Name": "Israeli New Shekel",
+  "Country": "Israel",
+  "Nombre de la moneda": "Nuevo séquel israelí",
+  "País": "Israel"
+ },
+ {
+  "Currency Code": "IMP",
+  "Currency Name": "Manx Pound",
+  "Country": "Isle of Man",
+  "Nombre de la moneda": "Libra de Man",
+  "País": "Isla del hombre"
+ },
+ {
+  "Currency Code": "INR",
+  "Currency Name": "Indian Rupee",
+  "Country": "India",
+  "Nombre de la moneda": "Rupia india",
+  "País": "India"
+ },
+ {
+  "Currency Code": "IQD",
+  "Currency Name": "Iraqi Dinar",
+  "Country": "Iraq",
+  "Nombre de la moneda": "dinar iraquí",
+  "País": "Irak"
+ },
+ {
+  "Currency Code": "IRR",
+  "Currency Name": "Iranian Rial",
+  "Country": "Iran",
+  "Nombre de la moneda": "rial iraní",
+  "País": "Irán"
+ },
+ {
+  "Currency Code": "ISK",
+  "Currency Name": "Icelandic Króna",
+  "Country": "Iceland",
+  "Nombre de la moneda": "corona islandesa",
+  "País": "Islandia"
+ },
+ {
+  "Currency Code": "JEP",
+  "Currency Name": "Jersey Pound",
+  "Country": "Jersey",
+  "Nombre de la moneda": "Libra de Jersey",
+  "País": "Jersey"
+ },
+ {
+  "Currency Code": "JMD",
+  "Currency Name": "Jamaican Dollar",
+  "Country": "Jamaica",
+  "Nombre de la moneda": "dólar jamaicano",
+  "País": "Jamaica"
+ },
+ {
+  "Currency Code": "JOD",
+  "Currency Name": "Jordanian Dinar",
+  "Country": "Jordan",
+  "Nombre de la moneda": "dinar jordano",
+  "País": "Jordán"
+ },
+ {
+  "Currency Code": "JPY",
+  "Currency Name": "Japanese Yen",
+  "Country": "Japan",
+  "Nombre de la moneda": "Yen japonés",
+  "País": "Japón"
+ },
+ {
+  "Currency Code": "KES",
+  "Currency Name": "Kenyan Shilling",
+  "Country": "Kenya",
+  "Nombre de la moneda": "Chelín keniano",
+  "País": "Kenia"
+ },
+ {
+  "Currency Code": "KGS",
+  "Currency Name": "Kyrgyzstani Som",
+  "Country": "Kyrgyzstan",
+  "Nombre de la moneda": "Som kirguís",
+  "País": "Kirguistán"
+ },
+ {
+  "Currency Code": "KHR",
+  "Currency Name": "Cambodian Riel",
+  "Country": "Cambodia",
+  "Nombre de la moneda": "Riel camboyano",
+  "País": "Camboya"
+ },
+ {
+  "Currency Code": "KID",
+  "Currency Name": "Kiribati Dollar",
+  "Country": "Kiribati",
+  "Nombre de la moneda": "Dólar de Kiribati",
+  "País": "Kiribati"
+ },
+ {
+  "Currency Code": "KMF",
+  "Currency Name": "Comorian Franc",
+  "Country": "Comoros",
+  "Nombre de la moneda": "Franco comorano",
+  "País": "Comoras"
+ },
+ {
+  "Currency Code": "KRW",
+  "Currency Name": "South Korean Won",
+  "Country": "South Korea",
+  "Nombre de la moneda": "Won surcoreano",
+  "País": "Corea del Sur"
+ },
+ {
+  "Currency Code": "KWD",
+  "Currency Name": "Kuwaiti Dinar",
+  "Country": "Kuwait",
+  "Nombre de la moneda": "dinar kuwaití",
+  "País": "Kuwait"
+ },
+ {
+  "Currency Code": "KYD",
+  "Currency Name": "Cayman Islands Dollar",
+  "Country": "Cayman Islands",
+  "Nombre de la moneda": "Dólar de las Islas Caimán",
+  "País": "Islas Caimán"
+ },
+ {
+  "Currency Code": "KZT",
+  "Currency Name": "Kazakhstani Tenge",
+  "Country": "Kazakhstan",
+  "Nombre de la moneda": "Tenge kazajo",
+  "País": "Kazajstán"
+ },
+ {
+  "Currency Code": "LAK",
+  "Currency Name": "Lao Kip",
+  "Country": "Laos",
+  "Nombre de la moneda": "kip laosiano",
+  "País": "Laos"
+ },
+ {
+  "Currency Code": "LBP",
+  "Currency Name": "Lebanese Pound",
+  "Country": "Lebanon",
+  "Nombre de la moneda": "libra libanesa",
+  "País": "Líbano"
+ },
+ {
+  "Currency Code": "LKR",
+  "Currency Name": "Sri Lanka Rupee",
+  "Country": "Sri Lanka",
+  "Nombre de la moneda": "Rupia de Sri Lanka",
+  "País": "Sri Lanka"
+ },
+ {
+  "Currency Code": "LRD",
+  "Currency Name": "Liberian Dollar",
+  "Country": "Liberia",
+  "Nombre de la moneda": "dólar liberiano",
+  "País": "Liberia"
+ },
+ {
+  "Currency Code": "LSL",
+  "Currency Name": "Lesotho Loti",
+  "Country": "Lesotho",
+  "Nombre de la moneda": "Loti de Lesoto",
+  "País": "Lesoto"
+ },
+ {
+  "Currency Code": "LYD",
+  "Currency Name": "Libyan Dinar",
+  "Country": "Libya",
+  "Nombre de la moneda": "dinar libio",
+  "País": "Libia"
+ },
+ {
+  "Currency Code": "MAD",
+  "Currency Name": "Moroccan Dirham",
+  "Country": "Morocco",
+  "Nombre de la moneda": "dírham marroquí",
+  "País": "Marruecos"
+ },
+ {
+  "Currency Code": "MDL",
+  "Currency Name": "Moldovan Leu",
+  "Country": "Moldova",
+  "Nombre de la moneda": "Leu moldavo",
+  "País": "Moldavia"
+ },
+ {
+  "Currency Code": "MGA",
+  "Currency Name": "Malagasy Ariary",
+  "Country": "Madagascar",
+  "Nombre de la moneda": "Ariary malgache",
+  "País": "Madagascar"
+ },
+ {
+  "Currency Code": "MKD",
+  "Currency Name": "Macedonian Denar",
+  "Country": "North Macedonia",
+  "Nombre de la moneda": "Denar macedonio",
+  "País": "Macedonia del Norte"
+ },
+ {
+  "Currency Code": "MMK",
+  "Currency Name": "Burmese Kyat",
+  "Country": "Myanmar",
+  "Nombre de la moneda": "Kyat birmano",
+  "País": "Birmania"
+ },
+ {
+  "Currency Code": "MNT",
+  "Currency Name": "Mongolian Tögrög",
+  "Country": "Mongolia",
+  "Nombre de la moneda": "Tögrög mongol",
+  "País": "Mongolia"
+ },
+ {
+  "Currency Code": "MOP",
+  "Currency Name": "Macanese Pataca",
+  "Country": "Macau",
+  "Nombre de la moneda": "Pataca de Macao",
+  "País": "Macao"
+ },
+ {
+  "Currency Code": "MRU",
+  "Currency Name": "Mauritanian Ouguiya",
+  "Country": "Mauritania",
+  "Nombre de la moneda": "Ouguiya mauritana",
+  "País": "Mauritania"
+ },
+ {
+  "Currency Code": "MUR",
+  "Currency Name": "Mauritian Rupee",
+  "Country": "Mauritius",
+  "Nombre de la moneda": "Rupia de Mauricio",
+  "País": "Mauricio"
+ },
+ {
+  "Currency Code": "MVR",
+  "Currency Name": "Maldivian Rufiyaa",
+  "Country": "Maldives",
+  "Nombre de la moneda": "Rufiyaa de Maldivas",
+  "País": "Maldivas"
+ },
+ {
+  "Currency Code": "MWK",
+  "Currency Name": "Malawian Kwacha",
+  "Country": "Malawi",
+  "Nombre de la moneda": "Kwacha de Malawi",
+  "País": "Malaui"
+ },
+ {
+  "Currency Code": "MXN",
+  "Currency Name": "Mexican Peso",
+  "Country": "Mexico",
+  "Nombre de la moneda": "peso mexicano",
+  "País": "México"
+ },
+ {
+  "Currency Code": "MYR",
+  "Currency Name": "Malaysian Ringgit",
+  "Country": "Malaysia",
+  "Nombre de la moneda": "Ringgit malayo",
+  "País": "Malasia"
+ },
+ {
+  "Currency Code": "MZN",
+  "Currency Name": "Mozambican Metical",
+  "Country": "Mozambique",
+  "Nombre de la moneda": "Metical mozambiqueño",
+  "País": "Mozambique"
+ },
+ {
+  "Currency Code": "NAD",
+  "Currency Name": "Namibian Dollar",
+  "Country": "Namibia",
+  "Nombre de la moneda": "dólar namibio",
+  "País": "Namibia"
+ },
+ {
+  "Currency Code": "NGN",
+  "Currency Name": "Nigerian Naira",
+  "Country": "Nigeria",
+  "Nombre de la moneda": "naira nigeriana",
+  "País": "Nigeria"
+ },
+ {
+  "Currency Code": "NIO",
+  "Currency Name": "Nicaraguan Córdoba",
+  "Country": "Nicaragua",
+  "Nombre de la moneda": "Córdoba nicaragüense",
+  "País": "Nicaragua"
+ },
+ {
+  "Currency Code": "NOK",
+  "Currency Name": "Norwegian Krone",
+  "Country": "Norway",
+  "Nombre de la moneda": "corona noruega",
+  "País": "Noruega"
+ },
+ {
+  "Currency Code": "NPR",
+  "Currency Name": "Nepalese Rupee",
+  "Country": "Nepal",
+  "Nombre de la moneda": "rupia nepalí",
+  "País": "Nepal"
+ },
+ {
+  "Currency Code": "NZD",
+  "Currency Name": "New Zealand Dollar",
+  "Country": "New Zealand",
+  "Nombre de la moneda": "Dolar de Nueva Zelanda",
+  "País": "Nueva Zelanda"
+ },
+ {
+  "Currency Code": "OMR",
+  "Currency Name": "Omani Rial",
+  "Country": "Oman",
+  "Nombre de la moneda": "Rial omaní",
+  "País": "Omán"
+ },
+ {
+  "Currency Code": "PAB",
+  "Currency Name": "Panamanian Balboa",
+  "Country": "Panama",
+  "Nombre de la moneda": "Balboa panameño",
+  "País": "Panamá"
+ },
+ {
+  "Currency Code": "PEN",
+  "Currency Name": "Peruvian Sol",
+  "Country": "Peru",
+  "Nombre de la moneda": "soles peruanos",
+  "País": "Perú"
+ },
+ {
+  "Currency Code": "PGK",
+  "Currency Name": "Papua New Guinean Kina",
+  "Country": "Papua New Guinea",
+  "Nombre de la moneda": "Kina de Papúa Nueva Guinea",
+  "País": "Papúa Nueva Guinea"
+ },
+ {
+  "Currency Code": "PHP",
+  "Currency Name": "Philippine Peso",
+  "Country": "Philippines",
+  "Nombre de la moneda": "peso filipino",
+  "País": "Filipinas"
+ },
+ {
+  "Currency Code": "PKR",
+  "Currency Name": "Pakistani Rupee",
+  "Country": "Pakistan",
+  "Nombre de la moneda": "Rupia paquistaní",
+  "País": "Pakistán"
+ },
+ {
+  "Currency Code": "PLN",
+  "Currency Name": "Polish Złoty",
+  "Country": "Poland",
+  "Nombre de la moneda": "Złoty polaco",
+  "País": "Polonia"
+ },
+ {
+  "Currency Code": "PYG",
+  "Currency Name": "Paraguayan Guaraní",
+  "Country": "Paraguay",
+  "Nombre de la moneda": "guaraní paraguayo",
+  "País": "Paraguay"
+ },
+ {
+  "Currency Code": "QAR",
+  "Currency Name": "Qatari Riyal",
+  "Country": "Qatar",
+  "Nombre de la moneda": "Riyal catarí",
+  "País": "Katar"
+ },
+ {
+  "Currency Code": "RON",
+  "Currency Name": "Romanian Leu",
+  "Country": "Romania",
+  "Nombre de la moneda": "Leu rumano",
+  "País": "Rumania"
+ },
+ {
+  "Currency Code": "RSD",
+  "Currency Name": "Serbian Dinar",
+  "Country": "Serbia",
+  "Nombre de la moneda": "dinar serbio",
+  "País": "Serbia"
+ },
+ {
+  "Currency Code": "RUB",
+  "Currency Name": "Russian Ruble",
+  "Country": "Russia",
+  "Nombre de la moneda": "Rublo ruso",
+  "País": "Rusia"
+ },
+ {
+  "Currency Code": "RWF",
+  "Currency Name": "Rwandan Franc",
+  "Country": "Rwanda",
+  "Nombre de la moneda": "franco ruandés",
+  "País": "Ruanda"
+ },
+ {
+  "Currency Code": "SAR",
+  "Currency Name": "Saudi Riyal",
+  "Country": "Saudi Arabia",
+  "Nombre de la moneda": "Riyal saudí",
+  "País": "Arabia Saudita"
+ },
+ {
+  "Currency Code": "SBD",
+  "Currency Name": "Solomon Islands Dollar",
+  "Country": "Solomon Islands",
+  "Nombre de la moneda": "Dólar de las Islas Salomón",
+  "País": "Islas Salomón"
+ },
+ {
+  "Currency Code": "SCR",
+  "Currency Name": "Seychellois Rupee",
+  "Country": "Seychelles",
+  "Nombre de la moneda": "Rupia de Seychelles",
+  "País": "Seychelles"
+ },
+ {
+  "Currency Code": "SDG",
+  "Currency Name": "Sudanese Pound",
+  "Country": "Sudan",
+  "Nombre de la moneda": "Libra sudanesa",
+  "País": "Sudán"
+ },
+ {
+  "Currency Code": "SEK",
+  "Currency Name": "Swedish Krona",
+  "Country": "Sweden",
+  "Nombre de la moneda": "Corona sueca",
+  "País": "Suecia"
+ },
+ {
+  "Currency Code": "SGD",
+  "Currency Name": "Singapore Dollar",
+  "Country": "Singapore",
+  "Nombre de la moneda": "Dolar de Singapur",
+  "País": "Singapur"
+ },
+ {
+  "Currency Code": "SHP",
+  "Currency Name": "Saint Helena Pound",
+  "Country": "Saint Helena",
+  "Nombre de la moneda": "Libra de Santa Helena",
+  "País": "santa elena"
+ },
+ {
+  "Currency Code": "SLE",
+  "Currency Name": "Sierra Leonean Leone",
+  "Country": "Sierra Leone",
+  "Nombre de la moneda": "Leona de Sierra Leona",
+  "País": "Sierra Leona"
+ },
+ {
+  "Currency Code": "SOS",
+  "Currency Name": "Somali Shilling",
+  "Country": "Somalia",
+  "Nombre de la moneda": "Chelín somalí",
+  "País": "Somalia"
+ },
+ {
+  "Currency Code": "SRD",
+  "Currency Name": "Surinamese Dollar",
+  "Country": "Suriname",
+  "Nombre de la moneda": "dólar surinamés",
+  "País": "Surinam"
+ },
+ {
+  "Currency Code": "SSP",
+  "Currency Name": "South Sudanese Pound",
+  "Country": "South Sudan",
+  "Nombre de la moneda": "Libra sursudanesa",
+  "País": "Sudán del Sur"
+ },
+ {
+  "Currency Code": "STN",
+  "Currency Name": "São Tomé and Príncipe Dobra",
+  "Country": "São Tomé and Príncipe",
+  "Nombre de la moneda": "Santo Tomé y Príncipe Dobra",
+  "País": "Santo Tomé y Príncipe"
+ },
+ {
+  "Currency Code": "SYP",
+  "Currency Name": "Syrian Pound",
+  "Country": "Syria",
+  "Nombre de la moneda": "libra siria",
+  "País": "Siria"
+ },
+ {
+  "Currency Code": "SZL",
+  "Currency Name": "Eswatini Lilangeni",
+  "Country": "Eswatini",
+  "Nombre de la moneda": "Suazilandia Lilangeni",
+  "País": "Esuatini"
+ },
+ {
+  "Currency Code": "THB",
+  "Currency Name": "Thai Baht",
+  "Country": "Thailand",
+  "Nombre de la moneda": "Baht tailandés",
+  "País": "Tailandia"
+ },
+ {
+  "Currency Code": "TJS",
+  "Currency Name": "Tajikistani Somoni",
+  "Country": "Tajikistan",
+  "Nombre de la moneda": "Somoni tayiko",
+  "País": "Tayikistán"
+ },
+ {
+  "Currency Code": "TMT",
+  "Currency Name": "Turkmenistan Manat",
+  "Country": "Turkmenistan",
+  "Nombre de la moneda": "Manat de Turkmenistán",
+  "País": "Turkmenistán"
+ },
+ {
+  "Currency Code": "TND",
+  "Currency Name": "Tunisian Dinar",
+  "Country": "Tunisia",
+  "Nombre de la moneda": "dinar tunecino",
+  "País": "Túnez"
+ },
+ {
+  "Currency Code": "TOP",
+  "Currency Name": "Tongan Paʻanga",
+  "Country": "Tonga",
+  "Nombre de la moneda": "Pa'anga tongano",
+  "País": "Tonga"
+ },
+ {
+  "Currency Code": "TRY",
+  "Currency Name": "Turkish Lira",
+  "Country": "Turkey",
+  "Nombre de la moneda": "Lira turca",
+  "País": "Pavo"
+ },
+ {
+  "Currency Code": "TTD",
+  "Currency Name": "Trinidad and Tobago Dollar",
+  "Country": "Trinidad and Tobago",
+  "Nombre de la moneda": "Dólar de Trinidad y Tobago",
+  "País": "Trinidad y Tobago"
+ },
+ {
+  "Currency Code": "TVD",
+  "Currency Name": "Tuvaluan Dollar",
+  "Country": "Tuvalu",
+  "Nombre de la moneda": "dólar tuvaluano",
+  "País": "Tuvalu"
+ },
+ {
+  "Currency Code": "TWD",
+  "Currency Name": "New Taiwan Dollar",
+  "Country": "Taiwan",
+  "Nombre de la moneda": "Nuevo dólar taiwanés",
+  "País": "Taiwán"
+ },
+ {
+  "Currency Code": "TZS",
+  "Currency Name": "Tanzanian Shilling",
+  "Country": "Tanzania",
+  "Nombre de la moneda": "Chelín tanzano",
+  "País": "Tanzania"
+ },
+ {
+  "Currency Code": "UAH",
+  "Currency Name": "Ukrainian Hryvnia",
+  "Country": "Ukraine",
+  "Nombre de la moneda": "grivna ucraniana",
+  "País": "Ucrania"
+ },
+ {
+  "Currency Code": "UGX",
+  "Currency Name": "Ugandan Shilling",
+  "Country": "Uganda",
+  "Nombre de la moneda": "Chelín ugandés",
+  "País": "Uganda"
+ },
+ {
+  "Currency Code": "USD",
+  "Currency Name": "United States Dollar",
+  "Country": "United States",
+  "Nombre de la moneda": "Dólar de los Estados Unidos",
+  "País": "Estados Unidos"
+ },
+ {
+  "Currency Code": "UYU",
+  "Currency Name": "Uruguayan Peso",
+  "Country": "Uruguay",
+  "Nombre de la moneda": "peso uruguayo",
+  "País": "Uruguay"
+ },
+ {
+  "Currency Code": "UZS",
+  "Currency Name": "Uzbekistani So'm",
+  "Country": "Uzbekistan",
+  "Nombre de la moneda": "So'm uzbeko",
+  "País": "Uzbekistán"
+ },
+ {
+  "Currency Code": "VES",
+  "Currency Name": "Venezuelan Bolívar Soberano",
+  "Country": "Venezuela",
+  "Nombre de la moneda": "Bolívar Soberano venezolano",
+  "País": "Venezuela"
+ },
+ {
+  "Currency Code": "VND",
+  "Currency Name": "Vietnamese Đồng",
+  "Country": "Vietnam",
+  "Nombre de la moneda": "Đồng vietnamita",
+  "País": "Vietnam"
+ },
+ {
+  "Currency Code": "VUV",
+  "Currency Name": "Vanuatu Vatu",
+  "Country": "Vanuatu",
+  "Nombre de la moneda": "VanuatuVatu",
+  "País": "Vanuatu"
+ },
+ {
+  "Currency Code": "WST",
+  "Currency Name": "Samoan Tālā",
+  "Country": "Samoa",
+  "Nombre de la moneda": "Tala samoana",
+  "País": "Samoa"
+ },
+ {
+  "Currency Code": "XAF",
+  "Currency Name": "Central African CFA Franc",
+  "Country": "CEMAC",
+  "Nombre de la moneda": "Franco CFA de África Central",
+  "País": "CEMAC"
+ },
+ {
+  "Currency Code": "XCD",
+  "Currency Name": "East Caribbean Dollar",
+  "Country": "Organisation of Eastern Caribbean States",
+  "Nombre de la moneda": "Dólar del Caribe Oriental",
+  "País": "Organización de Estados del Caribe Oriental"
+ },
+ {
+  "Currency Code": "XDR",
+  "Currency Name": "Special Drawing Rights",
+  "Country": "International Monetary Fund",
+  "Nombre de la moneda": "Derechos especiales de dibujo",
+  "País": "Fondo Monetario Internacional"
+ },
+ {
+  "Currency Code": "XOF",
+  "Currency Name": "West African CFA franc",
+  "Country": "CFA",
+  "Nombre de la moneda": "Franco CFA de África Occidental",
+  "País": "CFA"
+ },
+ {
+  "Currency Code": "XPF",
+  "Currency Name": "CFP Franc",
+  "Country": "Collectivités d'Outre-Mer",
+  "Nombre de la moneda": "Franco CFP",
+  "País": "Colectividades de Ultramar"
+ },
+ {
+  "Currency Code": "YER",
+  "Currency Name": "Yemeni Rial",
+  "Country": "Yemen",
+  "Nombre de la moneda": "rial yemení",
+  "País": "Yemen"
+ },
+ {
+  "Currency Code": "ZAR",
+  "Currency Name": "South African Rand",
+  "Country": "South Africa",
+  "Nombre de la moneda": "rand sudafricano",
+  "País": "Sudáfrica"
+ },
+ {
+  "Currency Code": "ZMW",
+  "Currency Name": "Zambian Kwacha",
+  "Country": "Zambia",
+  "Nombre de la moneda": "Kwacha zambiano",
+  "País": "Zambia"
+ },
+ {
+  "Currency Code": "ZWL",
+  "Currency Name": "Zimbabwean Dollar",
+  "Country": "Zimbabwe",
+  "Nombre de la moneda": "dólar zimbabuense",
+  "País": "Zimbabue"
+ }
+]}
